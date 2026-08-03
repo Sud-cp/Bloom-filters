@@ -1,0 +1,7 @@
+build/
+*.o
+*.out
+demo
+demo_bin
+benchmark_bin
+.DS_Store
